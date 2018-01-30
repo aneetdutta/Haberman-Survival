@@ -1,5 +1,5 @@
 # Haberman-Survival
-Explotary Data analysis of Haberman Survival dataset.  The objective of this work is to select the best feature using univariate and multivariate analysis techniques for better classification accuracy.
+Exploratary Data analysis of Haberman Survival dataset.  The objective of this work is to select the best feature using univariate and multivariate analysis techniques for better classification accuracy.
 
 Dataset description:
   The dataset contains 3 Features and 2 classes.
